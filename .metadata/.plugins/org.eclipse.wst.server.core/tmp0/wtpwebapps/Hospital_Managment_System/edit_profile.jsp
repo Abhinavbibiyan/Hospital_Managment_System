@@ -24,7 +24,7 @@
 	</c:if>
 
 
-	<%@include file="navbar.jsp"%>
+<!-- 	<%@include file="navbar.jsp"%> -->
 
 	<div class="container p-4">
 		<div class="row">

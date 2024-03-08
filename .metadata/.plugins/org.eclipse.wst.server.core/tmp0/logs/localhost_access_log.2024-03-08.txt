@@ -7,3 +7,9 @@
 0:0:0:0:0:0:0:1 - - [08/Mar/2024:00:59:26 +0530] "GET /Hospital_Managment_System/index.jsp HTTP/1.1" 200 74
 127.0.0.1 - - [08/Mar/2024:02:38:14 +0530] "GET / HTTP/1.1" 404 751
 0:0:0:0:0:0:0:1 - - [08/Mar/2024:02:38:14 +0530] "GET /Hospital_Managment_System/ HTTP/1.1" 500 2512
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:14:14:33 +0530] "GET /Hospital_Managment_System/ HTTP/1.1" 500 2512
+127.0.0.1 - - [08/Mar/2024:16:49:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:49:21 +0530] "GET /Hospital_Managment_System/ HTTP/1.1" 500 7778
+127.0.0.1 - - [08/Mar/2024:16:50:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:51:03 +0530] "GET /Hospital_Managment_System/ HTTP/1.1" 500 7778
+0:0:0:0:0:0:0:1 - - [08/Mar/2024:16:51:03 +0530] "GET /favicon.ico HTTP/1.1" 404 762
